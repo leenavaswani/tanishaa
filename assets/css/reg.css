@@ -1,0 +1,16 @@
+.reg {
+    padding: 130px 0 50px;
+    height: auto;
+}
+
+.list_box li {
+    padding-bottom: 0px!important;
+}
+
+.faq-list {
+    margin-top: 20px;
+    /* padding: 50px 0; */
+}
+.conn {
+    padding-bottom: 50px;
+}
